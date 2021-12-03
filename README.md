@@ -1,1 +1,1 @@
-# Data-fusion for generating high quality SST field
+# STAC-Net= Spatio Temporal Attention aggumented ConvLSTM pred-Net
